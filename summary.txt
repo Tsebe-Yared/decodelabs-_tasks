@@ -1,0 +1,8 @@
+Exploratory Data Analysis - E-Commerce Order Data
+
+I analyzed 1,200 cleaned order records to identify patterns in sales, pricing, and order behavior.
+
+- Order value: The average order was $1,053.97, though the median ($823.62) was notably lower, indicating a small number of large orders pull the average upward.
+- Product performance: Order counts were fairly even across all 7 products (156-181 orders each), but Laptops had the highest average order value (~$1,111) while Phones had the lowest (~$973).
+- Sales trend: Monthly sales fluctuated between $27K and $68K with no consistent upward or seasonal trend.
+- Order fulfillment: Cancelled orders (250) slightly outnumbered Delivered orders (231), a pattern worth investigating further.
